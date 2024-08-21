@@ -25,7 +25,7 @@ This repository contains the tasks completed during my Java internship at Codsof
 Clone the repository:
 
    ```bash
-   git clone https://github.com/surajsri23/Codsoft_java_task.git
+   git clone https://github.com/sunnyadavji/Codsoft_java_task.git
 
 
 #For detailed information on each task, refer to the respective README files:
@@ -34,4 +34,4 @@ Clone the repository:
 -ATM_INTERFACE_README.md
 
 #Author
-GitHub: surajsri23
+GitHub: sunnyadavji 
